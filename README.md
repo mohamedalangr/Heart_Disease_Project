@@ -61,7 +61,8 @@ pip install -r requirements.txt
 Run the Streamlit app:
 
 streamlit run ui/app.py
-🌐 How to Deploy Publicly (Optional)
+
+#🌐 How to Deploy Publicly
 Using Ngrok:
 
 # Start Streamlit app
@@ -71,14 +72,13 @@ streamlit run ui/app.py
 ngrok http 8501
 This gives you a public URL to share your app.
 
-📦 Requirements
+# 📦 Requirements
 All Python dependencies are listed in requirements.txt. To generate it:
 
 pip freeze > requirements.txt
-🧪 Evaluation Metrics
-Model performance is tracked and saved in the results/ folder, including ROC curves, confusion matrices, and F1-scores for comparison.
 
-📬 Contact
+# 📬 Contact
 Project by Mohamed Fathy
 For questions or contributions, feel free to open issues or pull requests.
+
 
