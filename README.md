@@ -52,4 +52,5 @@ __pycache__/
 *.pkl
 *.pyc
 .env
+
 .DS_Store
