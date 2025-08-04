@@ -1,0 +1,8 @@
+# How to run Ngrok:
+1. Start Streamlit:
+   streamlit run ui/app.py
+
+2. In a new terminal:
+   ngrok http 8501
+
+3. Copy the public URL to access the app
