@@ -55,9 +55,8 @@ Heart_Disease_Project/
 
 ## 🚀 How to Run the App Locally
 
-1. Install dependencies:
+- Install dependencies:
 
-```bash
 pip install -r requirements.txt
 Run the Streamlit app:
 
@@ -82,3 +81,4 @@ Model performance is tracked and saved in the results/ folder, including ROC cur
 📬 Contact
 Project by Mohamed Fathy
 For questions or contributions, feel free to open issues or pull requests.
+
